@@ -67,6 +67,7 @@
             android:padding="20dp"
             android:background="#20ffffff"
             android:textSize="20dp"
+            android:inputType="textPassword"
             android:hint="Enter Your Password"
             android:textColorHint="@color/black"
             android:paddingStart="1dp"/>
