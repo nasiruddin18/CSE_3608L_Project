@@ -32,7 +32,7 @@
             android:id="@+id/javaIntroId"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Java Introduction"
+            android:text="Java Calculator"
             android:textSize="30dp"
             android:textColor="@color/black"
             android:textStyle="bold"
